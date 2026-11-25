@@ -1,0 +1,18 @@
+# This repository keeps only the final solution of each practical, README.md and the figures it shows.
+# Everything else (briefs, starters, datasets, run outputs, older versions) stays on this machine.
+*
+!*/
+!/practical-*/solution.py
+!README.md
+!.gitignore
+!.gitattributes
+!docs/figures/*.png
+
+# Folders that stay out whatever they hold
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+lectures/
+data/
+.vscode/
+.idea/
